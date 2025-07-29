@@ -1,0 +1,25 @@
+{
+  "name": "passwordmanager",
+  "version": "1.0.0",
+  "description": "A password manager in nodejs",
+  "homepage": "https://github.com/0x746f6d6d757a/PasswordManager#readme",
+  "bugs": {
+    "url": "https://github.com/0x746f6d6d757a/PasswordManager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x746f6d6d757a/PasswordManager.git"
+  },
+  "license": "MIT",
+  "author": "tommu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "inquirer": "^8.2.6"
+  }
+}
